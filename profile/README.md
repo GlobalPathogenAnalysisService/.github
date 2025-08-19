@@ -1,6 +1,6 @@
-# Global Pathogen Analysis Service
+![GPAS Logo](gpas-header-logo.svg)
 
-Welcome to the GPAS code repositories — your launchpad into cutting-edge pathogen analysis.
+_Welcome to the GPAS code repositories — your launchpad into cutting-edge pathogen analysis._
 
 ### GPAS CLI Client
 
@@ -10,4 +10,4 @@ The GPAS CLI Client gives you the power of GPAS from your terminal.
 - Upload data directly to EIT GPAS
 - Manage and monitor your analysis batches with ease — download results, track progress, and more
 
-Want to dive in? [Download the client](https://pypi.org/project/gpas/) and start exploring!
+Want to dive in? [Install the client from PyPi](https://pypi.org/project/gpas/) and start exploring!
