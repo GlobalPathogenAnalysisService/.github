@@ -2,6 +2,7 @@
 - [ ] Fill in the PR template
 - [ ] Update the CHANGELOG.md
 - [ ] Update or add relevant tests
+- [ ] Have these changes been tested with the client?
 
 ## 📌 Key Links
 - Ticket - https://eit-oxford.atlassian.net/browse/EV-
