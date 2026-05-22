@@ -1,13 +1,11 @@
-## PR Checklist
-- [ ] Update CHANGELOG.md
-- [ ] Tests
-  - [ ] Unit tests
-  - [ ] Integration tests
-  - [ ] QA: Test cases updated?
+## JIRA ticket
+https://eit-oxford.atlassian.net/browse/GDPSB-
 
-## Key links (JIRA ticket, related PRs etc.)
-- Ticket - https://eit-oxford.atlassian.net/browse/GDPSB-
-- Related PR(s) - 
+## Related PRs
+- 
 
-## Changes/Notes
--
+## Testing (tests included & other information for QA)
+
+
+## Summary of Changes
+- 
